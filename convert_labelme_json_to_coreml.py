@@ -96,6 +96,5 @@ def visualize_image(image_file):
 	plt.show()
 
 if __name__ == '__main__':
-	# main()
+	main()
 	# visualize_image("images/saved_images/iStock-874686094b-medium.jpg")
-	visualize_image("monica-images/saved_images/image8.jpeg")
